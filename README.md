@@ -1,0 +1,2 @@
+# CODEJAM2015_google_STRINGS
+Google APAC test CODEJAM 2015
